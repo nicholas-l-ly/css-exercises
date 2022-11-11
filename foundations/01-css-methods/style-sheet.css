@@ -1,0 +1,10 @@
+/*  style-sheet.css */
+
+div {
+    color: white;
+    background-color: red;
+    font-size: 32px;
+    font-weight: 900;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+  }
